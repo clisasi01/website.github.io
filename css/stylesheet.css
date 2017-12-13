@@ -1,0 +1,39 @@
+#body{
+	background-color: #EEE;
+	color:blue;
+}
+
+#container{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header{
+	background-color:#66CCFF;
+	color:white;
+}
+
+#content{
+	padding: 10px;
+	
+}
+
+#nav{
+	width: 180px;
+	float: left;
+}
+
+#main{
+	
+	width: 600px;
+	float: right;
+}
+
+#footer{
+	
+	background-color: white;
+	color: blue;
+	margin-bottom: auto;
+}
